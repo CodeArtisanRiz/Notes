@@ -1,3 +1,3 @@
 # Notes
 Simple Notes App Using Room Database &amp; MVVM architecture.
-![Alt text]()
+![Alt text](screenshots/AddEditNote.png)
